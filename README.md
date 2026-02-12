@@ -15,7 +15,7 @@ Futuro Desenvolvedor em aprendizado
 
 ---
 
-### 🤖 Linguagens de Conhecimento
+### 🤖 Linguagens e Tecnologias de Conhecimento
 
 
 
